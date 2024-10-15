@@ -167,7 +167,6 @@ return [
             'password' => env('AZURE_REDIS_PASSWORD'),
             'port' => env('AZURE_REDIS_PORT', '6379'),
             'database' => env('AZURE_REDIS_DATABASE', '1'),
-            
         ],
 
     ],
