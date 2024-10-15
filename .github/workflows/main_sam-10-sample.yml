@@ -63,4 +63,4 @@ jobs:
           app-name: 'sam-10-sample'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A9ADF1C6F0B4E928632FB52AB05712A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE1AD0FDF0CD477399761F38FC1EA256 }}
